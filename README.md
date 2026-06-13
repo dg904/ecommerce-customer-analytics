@@ -48,7 +48,7 @@ Trained 4 classifiers on RFM features to predict the segment of a new customer:
 
 | Model | F1 Score |
 |---|---|
-| Logistic Regression | ~0.98 ✅ best |
+| Logistic Regression | ~0.98 (best) |
 | Random Forest | ~0.97 |
 | Decision Tree | ~0.96 |
 | KNN | ~0.94 |
